@@ -1,0 +1,25 @@
+COVID-19-Data-Analysis/
+│
+├── data/                   # Raw and processed data
+│   ├── raw/                # Original data files
+│   └── processed/          # Cleaned/processed data
+│
+├── notebooks/              # Jupyter notebooks with analysis
+│   ├── data_cleaning.ipynb
+│   └── exploratory_analysis.ipynb
+│
+├── scripts/                # Python scripts
+│   ├── data_processing.py
+│   └── visualization.py
+│
+├── dashboards/             # Tableau files and exports
+│   ├── tableau_workbook.twb
+│   └── dashboard_exports/  # PNG/PDF exports of dashboards
+│
+├── docs/                   # Documentation
+│   ├── methodology.md
+│   └── findings.md
+│
+├── requirements.txt        # Python dependencies
+├── LICENSE
+└── README.md               # Main project documentation
